@@ -30,7 +30,7 @@
 - Curso
 - Data da Matrícula
   
-**Protipação:**
+**Prototipação:**
 
 [![1-parte-PI-MAR-O.png](https://i.postimg.cc/tTQT0JSg/1-parte-PI-MAR-O.png)](https://postimg.cc/Mc5xV68k)
 
