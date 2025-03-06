@@ -30,11 +30,35 @@
 - Curso
 - Data da Matrícula
   
-**Prototipação:**
+**Prototipação de baixo nível:**
 
-[![1-parte-PI-MAR-O.png](https://i.postimg.cc/tTQT0JSg/1-parte-PI-MAR-O.png)](https://postimg.cc/Mc5xV68k)
+[![baixonivel.png](https://i.postimg.cc/MH3GxmSw/baixonivel.png)](https://postimg.cc/LgfS3f5Q)
 
-**Caso de uso com UML:**
+**Prototipação de alto nível:**
 
-[![image.png](https://i.postimg.cc/KcdRB9rT/image.png)](https://postimg.cc/Jt5rW5F7)
+[![login.png](https://i.postimg.cc/Bvfnqvdj/login.png)](https://postimg.cc/68zXcB6K)
+
+[![perfil-selecionado.png](https://i.postimg.cc/ydV6Zb6B/perfil-selecionado.png)](https://postimg.cc/CZQVyJf6)
+
+[![cadastro-pessoa-fisica.png](https://i.postimg.cc/CLtKQ77H/cadastro-pessoa-fisica.png)](https://postimg.cc/rK1cdSvK)
+
+[![cadastro-pessoa-jurica.png](https://i.postimg.cc/sgh2dW0F/cadastro-pessoa-jurica.png)](https://postimg.cc/VJzwXJ84)
+
+[![cadastro-de-professores.png](https://i.postimg.cc/BZmbx41z/cadastro-de-professores.png)](https://postimg.cc/hh7KnFs8)
+
+[![Cadastro-de-Fornecedores.png](https://i.postimg.cc/zX3B76CG/Cadastro-de-Fornecedores.png)](https://postimg.cc/QHGhx6Y2)
+
+[![Cadastro-de-Alunos.png](https://i.postimg.cc/Qth8Lnvw/Cadastro-de-Alunos.png)](https://postimg.cc/GBgwGzLx)
+
+[![Consulta.png](https://i.postimg.cc/jj6dCbbZ/Consulta.png)](https://postimg.cc/nsztwNMD)
+
+
+**Diagrama De Caso De Uso**
+
+[![image.png](https://i.postimg.cc/P5vwCmg5/image.png)](https://postimg.cc/ZWZRgyYG)
+
+
+**Diagrama De Classe:**
+
+[![UML.png](https://i.postimg.cc/GmF60hr3/UML.png)](https://postimg.cc/DSzxLh8R)
 
