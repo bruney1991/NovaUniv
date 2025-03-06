@@ -15,7 +15,7 @@
 
 **Cadastro de Professores:**
 - Nome Completo
-- CNPJ
+- CNPJ / CPF
 - Titulação
 - Disciplinas Ministradas
 
