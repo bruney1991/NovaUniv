@@ -55,7 +55,8 @@
 
 **Diagrama De Caso De Uso**
 
-[![image.png](https://i.postimg.cc/P5vwCmg5/image.png)](https://postimg.cc/ZWZRgyYG)
+[![Caso-de-uso.png](https://i.postimg.cc/1zJmQKPz/Caso-de-uso.png)](https://postimg.cc/t1nQdWs0)
+
 
 
 **Diagrama De Classe:**
